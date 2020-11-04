@@ -1,0 +1,34 @@
+{
+    "T8hGGCeJkzjAHcmPayrollCreateMergeDismissalMovimentationC01": {
+        "lambda": {
+            "headers": {
+                "X-Senior-Token": "Bearer 8e769944e24acfc49a0ef188b4f750b5",
+                "X-Senior-User": "admin@user.com"
+            },
+            "body": {
+                "id": "0C94F846258E5DD9A3D63120B4509B76",
+                "dateWhen": "2020-09-25",
+                "payday": "2020-10-02",
+                "employee": {
+                    "id": "5F6CA2E304F949F2A195B9E7AA9D7BA7"
+                },
+                "workedDays": "25",
+                "resignationReason": {
+                    "id": "BBB126484CD443A68D1E763F172F8E2E"
+                },
+                "dismissalReason": {
+                    "id": "C0145E25DED74C278C67F9625216C693"
+                },
+                "dateOfNotice": "2020-09-24",
+                "indemnifiedNoticeDays": 30,
+                "additionalDaysIndemnifiedNotice": 3,
+                "revisedNoticeDays": 30,
+                "additionalDaysRevisedNotice": 3,
+                "balanceAccountFGTS": 1000,
+                "replacementOfVacancy": "false",
+                "dischargeTerm": "NOT_APPLICABLE",
+                "comment": "teste pra pegar a primitiva."
+            }
+        }
+    }
+}

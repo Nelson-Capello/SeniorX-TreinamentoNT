@@ -1,0 +1,10 @@
+{
+    "DeploymentMethod": "lambda",
+    "Functions": {
+        "T8hGGCeJkzjAHcmPayrollEmployeeSaveTeste2": {
+            "PhysicalId": {
+                "us-east-1": "T8hGGCeJkzjAHcmPayrollEmployeeSaveTeste2"
+            }
+        }
+    }
+}
